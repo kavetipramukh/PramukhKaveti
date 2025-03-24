@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building cool
 - 📫 How to reach me: **[kavetpramukh122@gmail.com]**
 
 ## 🛠 Tech Stack
-- 💻 Languages: `Python`, `JavaScript`, `TypeScript`, `C++`
+- 💻 Languages: `Html`, `JavaScript`, `TypeScript`, `C++`
 - 🌐 Frontend: `React`, `Next.js`, `Tailwind CSS`
 - 🔧 Backend: `Node.js`, `Python`
 - 🛢️ Database: `MongoDB`, `PostgreSQL`
